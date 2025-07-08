@@ -24,7 +24,7 @@ Welcome to the **React Styled Components Project** — a collaborative open-sour
 
 ## 📁 Folder Structure
 
-```bash
+
 src/
 ├── components/        # Reusable UI components
 │   ├── Button.jsx
