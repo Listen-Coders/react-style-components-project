@@ -33,3 +33,23 @@ src/
 │   └── theme.js
 ├── App.jsx
 ├── index.js
+
+## 📚 How Students Can Use & Contribute
+
+This is a collaborative open-source project using **React + styled-components**. Everyone is welcome to contribute!
+
+---
+
+### 🛠️ Step 1: Fork the Repository
+
+1. Click the **Fork** button (top-right) on this GitHub repository.
+2. This creates **your own copy** of the project under your GitHub account.
+
+---
+
+### 📥 Step 2: Clone Your Fork Locally
+
+```bash
+git clone https://github.com/YOUR_GITHUB_USERNAME/react-style-components-project.git
+cd react-style-components-project
+
